@@ -12,8 +12,6 @@ const omegablak17 = {
     },
   Proyects: [
       {PI-COUNTRIES: ['Redux', 'NodeJs', 'Express', 'Sequelize', 'React']},
-      {BLOG-INFORMATORIO: ['Django']},
-     
-    ],
+      {BLOG-INFORMATORIO: ['Django']}],
 
 }
