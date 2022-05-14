@@ -1,5 +1,5 @@
 ### Hola soy Jeronimo Olivera
-
+```js
 const omegablak17 = {
   Skills: {
       BackEnd: [
@@ -15,3 +15,4 @@ const omegablak17 = {
       {BLOG-INFORMATORIO: ['Django']}],
 
 }
+```
