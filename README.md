@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola soy Jeronimo Olivera
 
-<!--
-**omegablak17/omegablak17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const omegablak17 = {
+  Skills: {
+      BackEnd: [
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
+          {Python: ['Django']}
+        ],
+      FrontEnd: [
+          {JavaScript: ['React', 'Redux']}
+        ]
+    },
+  Proyects: [
+      {PI-COUNTRIES: ['Redux', 'NodeJs', 'Express', 'Sequelize', 'React']},
+      {BLOG-INFORMATORIO: ['Django']},
+     
+    ],
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
