@@ -1,4 +1,4 @@
-### Hola soy Jeronimo Olivera
+   ### Hola soy Jeronimo Olivera
 ```js
 const omegablak17 = {
   Skills: {
@@ -20,4 +20,4 @@ const omegablak17 = {
 
 <p>Quiero formar parte de un gran grupo y/o proyecto para desempeñarme en mundo del desarrollo web</p>
 
-<h2> Mis Proyectos < style ="margin: auto" /h2>
+<h2 style ="margin: auto" > Mis Proyectos </h2
