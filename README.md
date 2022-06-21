@@ -18,4 +18,6 @@ const omegablak17 = {
 ```
 <p>✋Soy un desarrolador FULL STACK con preferencias en el BACKEND💪. me apasiona el mundo de IT. Estoy en constate crecimiento profesional aprendiendo nuevas tecnologias y enfrentandome a nuevos retos.</p>
 
-<h2> PI-COUNTRIES </h2>
+<p>Quiero formar parte de un gran grupo y/o proyecto para desempeñarme en mundo del desarrollo web</p>
+
+<h2> Mis Proyectos < style ="margin: auto" /h2>
