@@ -25,6 +25,29 @@ const omegablak17 = {
 <h4> Countries SPA </h4>
 
 <p> SPA (Single Page Application) de paises, donde utilizo una api externa para cargar datos en mi base de datos para crear una api propia</p>
+
+<h5>Tecnologias</h5>
+<ul>
+   <li>React</li>
+   <li>Redux</li>
+   <li>PostgreSQL</li>
+   <li>Nodejs</li>
+   <li>Express</li>
+   <li>Sequelize</li>
+</ul>
+
+<p>Repo: https://github.com/omegablak17/PI-COUNTRIES</p>
+<p>Link: https://spa-countries.vercel.app/</p>
+
+
+
+<h4>Digitalizarte</h4>
+
+<p>Red social para artistas donde pueden vender arte digital. cuenta con: una pasarela de pago en paypal, sistema de login, sistema de seguidores-seguidos,
+sistema de likes, perfil personal, feed personal con seccion de artistas que sigues.
+</p>
+
+<h5>Tecnologias</h5>
 <ul>
    <li>React</li>
    <li>Redux</li>
@@ -35,3 +58,5 @@ const omegablak17 = {
 </ul>
 
 
+<p>Repo: https://github.com/BugalloF/PG-Backend , https://github.com/BugalloF/PG-Frontend </p>
+<p>Link: https://spa-countries.vercel.app</p>
