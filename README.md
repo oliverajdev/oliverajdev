@@ -20,4 +20,18 @@ const omegablak17 = {
 
 <p>Quiero formar parte de un gran grupo y/o proyecto para desempeñarme en mundo del desarrollo web</p>
 
-<h2 style ="margin: auto" > Mis Proyectos </h2
+<h2> Mis Proyectos </h2>
+
+<h4> Countries SPA </h4>
+
+<p> SPA (Single Page Application) de paises, donde utilizo una api externa para cargar datos en mi base de datos para crear una api propia</p>
+<ul>
+   <li>React</li>
+   <li>Redux</li>
+   <li>PostgreSQL</li>
+   <li>Nodejs</li>
+   <li>Express</li>
+   <li>Sequelize</li>
+</ul>
+
+
