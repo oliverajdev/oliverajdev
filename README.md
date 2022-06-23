@@ -89,4 +89,4 @@ sistema de likes, perfil personal, feed personal con seccion de artistas que sig
 <p align="left">
 <a href="https://www.linkedin.com/in/jeronimo-olivera-80b29a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauro-iannizzotto" height="30" width="40" /></a>
 </p>
-Email: oliverjdev@gmail.com
+Email: oliverajdev@gmail.com
