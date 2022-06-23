@@ -25,6 +25,7 @@ const omegablak17 = {
 <h4> Countries SPA </h4>
 
 <p> SPA (Single Page Application) de paises, donde utilizo una api externa para cargar datos en mi base de datos para crear una api propia</p>
+<img src='https://ibb.co/MfSYWHh'/>
 
 <h5>Tecnologias</h5>
 <ul>
