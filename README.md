@@ -39,10 +39,10 @@ const omegablak17 = {
    
    
    
-   <img width='450px' align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(14).png?alt=media&token=79cda1b1-92f1-426f-b57b-779298cee818'/>
-<img width='450px' align="center" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(3).png?alt=media&token=85e3d5e3-177b-4056-b108-d33b3a170d51'/>
-<img width='450px' align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(4).png?alt=media&token=7c191cf1-a878-4792-a7a2-afa35342414c'/>
-<img  width='450px' align="center" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(5).png?alt=media&token=aaeb36fe-0347-4b29-888c-951c6b4a1e56'/>
+   <img width='350px' align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(14).png?alt=media&token=79cda1b1-92f1-426f-b57b-779298cee818'/>
+<img width='350px' align="center" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(3).png?alt=media&token=85e3d5e3-177b-4056-b108-d33b3a170d51'/>
+<img width='350px' align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(4).png?alt=media&token=7c191cf1-a878-4792-a7a2-afa35342414c'/>
+<img  width='350px' align="center" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(5).png?alt=media&token=aaeb36fe-0347-4b29-888c-951c6b4a1e56'/>
 
 
 
@@ -73,12 +73,12 @@ sistema de likes, perfil personal, feed personal con seccion de artistas que sig
 
 
 
-<img width='450px' align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(6).png?alt=media&token=d8c9522d-4e88-467d-b438-95ee3dca8d60'/>
-<img width='450px' align="center"  src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(7).png?alt=media&token=3b026db4-348f-4d3f-8b11-9927903be142'/>
-<img width='450px' align="left"  src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(8).png?alt=media&token=204bda50-b8cc-49a6-8c97-773bf90c1e34'/>
-<img width='450px' align="center"   src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(11).png?alt=media&token=daf147a0-0b4f-499f-b6f1-e48faeb7c884'/>
-<img width='450px'  align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(13).png?alt=media&token=f9491d68-d119-47dc-a81b-c04a825928d6'/>
-<img width='450px' align="center"   src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(16).png?alt=media&token=9f890ee4-9927-4168-86ce-7caa89bd6e6a'/>
+<img width='350px' align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(6).png?alt=media&token=d8c9522d-4e88-467d-b438-95ee3dca8d60'/>
+<img width='350px' align="center"  src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(7).png?alt=media&token=3b026db4-348f-4d3f-8b11-9927903be142'/>
+<img width='350px' align="left"  src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(8).png?alt=media&token=204bda50-b8cc-49a6-8c97-773bf90c1e34'/>
+<img width='350px' align="center"   src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(11).png?alt=media&token=daf147a0-0b4f-499f-b6f1-e48faeb7c884'/>
+<img width='350px'  align="left" src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(13).png?alt=media&token=f9491d68-d119-47dc-a81b-c04a825928d6'/>
+<img width='350px' align="center"   src='https://firebasestorage.googleapis.com/v0/b/prueba-408d2.appspot.com/o/Captura%20de%20pantalla%20(16).png?alt=media&token=9f890ee4-9927-4168-86ce-7caa89bd6e6a'/>
 
 
 
